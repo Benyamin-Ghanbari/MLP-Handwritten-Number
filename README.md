@@ -1,5 +1,6 @@
 # Handwritten Digit Recognition using Multi-Layer Perceptron (MLP)
 
+## Introduction
 With advancements in hardware system design, the execution of more advanced and complex algorithms has become feasible. As a result, numerous events have occurred, one of which is the transformation in digital image processing.
 
 Digital image processing involves the analysis and pattern recognition within digital images. The applications of image processing can be seen in face recognition systems in smartphones. These systems, by receiving an image as input, determine whether the person is authorized to access the smartphone or not. However, the functionality of these systems goes beyond simple recognition, as someone might attempt unauthorized access by taking a picture of you in front of the smartphone's camera!
