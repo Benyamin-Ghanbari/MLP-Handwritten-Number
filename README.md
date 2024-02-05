@@ -1,6 +1,3 @@
-# MLP-Handwritten-Number
-Handwritten Number Recognition With Multi-Layer Perceptron ( MLP)
-
 # Handwritten Digit Recognition using Multi-Layer Perceptron (MLP)
 
 With advancements in hardware system design, the execution of more advanced and complex algorithms has become feasible. As a result, numerous events have occurred, one of which is the transformation in digital image processing.
