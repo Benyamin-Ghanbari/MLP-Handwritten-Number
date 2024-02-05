@@ -23,7 +23,7 @@ The column naming convention in the dataframe is in the form of 𝑖*𝑗, indic
 
  **Clone Repository:**
    ```
-   git clone <repository_URL>
+   git clone https://github.com/youngbenyamin/MLP-Handwritten-Number.git
    ```
    Clone the repository to your local machine.
 
